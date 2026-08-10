@@ -5,7 +5,7 @@
 </div>
 
 ```bash
-subham@kolkata:~$ whoami
+subham@github:~$ whoami
 ```
 
 ```
