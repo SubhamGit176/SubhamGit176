@@ -55,7 +55,15 @@ subham@prod ~ % cat ai_ml_capabilities.log
 
 ### `subham@prod ~ % stack --list`
 
-<img src="https://skillicons.dev/icons?i=python,pyspark,kafka,airflow,docker,kubernetes,aws,postgres,oracle&theme=dark" />
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=00FF41)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF41)
+![Airflow](https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=00FF41)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41)
+![VectorDB](https://img.shields.io/badge/Vector_DB-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY0MSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNC4yNCAyIDdzNC40OCA1IDEwIDUgMTAtMi4yNCAxMC01LTQuNDgtNS0xMC01em0wIDhjLTQuNDIgMC04LTEuMzUtOC0zczMuNTgtMyA4LTMgOCAxLjM1IDggM3MtMy41OCAzLTggM3ptLTggMnYzYzAgMS42NSAzLjU4IDMgOCAzczgtMS4zNSA4LTN2LTNjMCAxLjY1LTMuNTggMy04IDNzLTgtMS4zNS04LTN6bTAgNXYzYzAgMS42NSAzLjU4IDMgOCAzczgtMS4zNSA4LTN2LTNjMCAxLjY1LTMuNTggMy04IDNzLTgtMS4zNS04LTN6Ii8+PC9zdmc+&logoColor=00FF41)
 
 </div>
 
@@ -63,14 +71,35 @@ subham@prod ~ % cat ai_ml_capabilities.log
 
 ### `subham@prod ~ % ls -la featured_projects/`
 
-**[AgentOps Control Tower](#)** — Multi-agent system for financial document processing
+```
+drwxr-xr-x  agentops-control-tower/
+drwxr-xr-x  news-media-intelligence-datalake/
+drwxr-xr-x  universal-document-extraction-engine/
+```
+
+```
+subham@prod ~ % cat agentops-control-tower/README.md
+```
+**AgentOps Control Tower**
+Multi-agent system for financial document processing
 `Master/Worker agents · Kafka · PostgreSQL · Elasticsearch · config-driven`
+`repo: github.com/SubhamGit176/agentops-control-tower`
 
-**[News & Media Intelligence Datalake](#)** — End-to-end intelligence platform
+```
+subham@prod ~ % cat news-media-intelligence-datalake/README.md
+```
+**News & Media Intelligence Datalake**
+End-to-end intelligence platform
 `Kafka KRaft · hybrid search (BM25+kNN) · RAG · FastAPI · Airflow · Kubernetes · Ansible`
+`repo: github.com/SubhamGit176/news-media-intelligence-datalake`
 
-**[Universal Document Extraction Engine](#)** — OCR/LLM document extraction pipeline
+```
+subham@prod ~ % cat universal-document-extraction-engine/README.md
+```
+**Universal Document Extraction Engine**
+OCR/LLM document extraction pipeline
 `PaddleOCR · Donut · Ollama/Qwen2.5 · ChromaDB · FastAPI`
+`repo: github.com/SubhamGit176/universal-document-extraction-engine`
 
 ---
 
