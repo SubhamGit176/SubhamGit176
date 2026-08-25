@@ -120,6 +120,9 @@ OCR/LLM document extraction pipeline
 subham@prod ~ % echo $CONTACT
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=LinkedIn%3A+%5Bconnect%5D%28%23%29+%7C+Resume%3A+available+on+request;session+closed._" alt="Footer Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=LinkedIn%3A+%5Bconnect%5D%28%23%29+%7C+Resume%3A+available+on+request;session+closed._" alt="Footer Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=resume%3A+available+on+request;session+closed._" alt="Footer Typing SVG" />
+
+linkedin: linkedin.com/in/subhamraiadhikari25
 
 </div>
