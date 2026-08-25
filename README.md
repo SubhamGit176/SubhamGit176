@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
-   _____       ____  __ __  ___    __  ___
-  / ___/__  __/ __ )/ / / / /   |  /  |/  /
-  \__ \/ / / / __  / / /_/ / /| | / /|_/ /
- ___/ / /_/ / /_/ / / __  / ___ |/ /  / /
-/____/\__,_/_____/_/_/ /_/_/  |_/_/  /_/
+ ____  _   _ ____  _   _    _    __  __
+/ ___|| | | | __ )| | | |  / \  |  \/  |
+\___ \| | | |  _ \| |_| | / _ \ | |\/| |
+ ___) | |_| | |_) |  _  |/ ___ \| |  | |
+|____/ \___/|____/|_| |_/_/   \_\_|  |_|
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer+%E2%80%94+BFSI+Domain;3%2B+years+building+production+ETL%2FELT;Murex+MX.3+%C2%B7+SWIFT+%C2%B7+Bloomberg+%C2%B7+Finacle+CBS" alt="Typing SVG" />
