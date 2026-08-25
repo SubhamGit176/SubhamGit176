@@ -103,14 +103,14 @@ OCR/LLM document extraction pipeline
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### `subham@prod ~ % git log --stats`
 
 <img src="https://github-readme-stats.vercel.app/api?username=SubhamGit176&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&hide=prs" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamGit176&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" height="165" />
 
-</div>
+</div> -->
 
 ---
 
